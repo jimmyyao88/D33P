@@ -1,2 +1,2 @@
 # D33P
-gameboy advance html5 4 mobile
+gameboy advance html5 4 mobile browser
